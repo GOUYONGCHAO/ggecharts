@@ -3,7 +3,7 @@
 Overview
 --------
 
-ggplot风格的echarts
+ggplot风格的echarts,让你快速上手。
 
 Installation
 ------------
